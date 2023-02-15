@@ -800,7 +800,7 @@
         "bad_ifoperstatus": {
             "type": "array",
             "default": [
-                "notPresent"
+                "ignore"
             ]
         },
         "base_url": {
